@@ -14,13 +14,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Brynga
+- 🔭 I’m currently working on SpeedBird
 
-- 🌱 I’m currently learning React, NextJS, Node and Javascript 
+- 🌱 I’m currently learning React, Node, Javascript and Flutter
 
-- 👯 I’m looking to collaborate on  
-
-- 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about Development, Freelancing Opportunites, Open Source 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/oleonardodeandrade?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
