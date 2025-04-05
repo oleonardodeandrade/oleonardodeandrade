@@ -11,8 +11,8 @@ I'm a full stack developer. I'm 23 years old and I live in Brazil.
 
 
 ## Study
-🧠 I'm currently learning React, Node, Javascript and Flutter
+🧠 I'm currently learning React, React Native, and Flutter
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Angular, Node and Flutter
+Javascript, HTML, CSS, React, React Native, Node, and AI
 
